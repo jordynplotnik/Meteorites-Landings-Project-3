@@ -1,6 +1,6 @@
 # *Project 3* - Data Analysis and Visualization of Meteorite History
 
-*Collaborators:* <br />
+## Collaborators
 https://github.com/tphilippsen <br />
 https://github.com/adaitor3 <br />
 https://github.com/Samrosegithub <br />
