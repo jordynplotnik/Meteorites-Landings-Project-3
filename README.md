@@ -1,5 +1,11 @@
 # *Project 3* - Data Analysis and Visualization of Meteorite History
 
+This is a clone of a group project saved [here](https://github.com/tphilippsen/Project-3) <br />
+Collaborators: <br />
+https://github.com/tphilippsen <br />
+https://github.com/adaitor3 <br />
+https://github.com/Samrosegithub <br />
+
 **[Click Here to view our Source](https://catalog.data.gov/dataset/meteorite-landings/resource/389dab1c-1e2e-4b13-83bf-d05a0219fe3e)** <br />
 **Resources Utilized:** CSV, JSON  <br />
 **Data Variables:** Name, Name ID, Mass (g), Fall, Year, Lat, Lon, Geolocation, Reclass  <br />
